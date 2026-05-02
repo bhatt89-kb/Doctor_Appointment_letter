@@ -1,4 +1,4 @@
-🩺 Doctors Appointment Platform
+#🩺 Doctors Appointment Platform
 
 The Doctors Appointment Platform is a full-stack web application designed to simplify the process of booking and managing medical consultations. It provides a modern digital solution for patients, doctors, and administrators.
 
